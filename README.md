@@ -22,7 +22,7 @@ O projeto resultou em uma matriz de correlação, que apresentou correlações p
 
 Na etapa de EDA, foi possivel identificar a correlação das features do data set: 
 
-![Matriz de Correlação](/Imagens/Matriz%20Cor.png)
+![Matriz de Correlação](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Matriz%20Cor.png)
 
 Com isso destacam-se 3 features mais relevantes dado seu nível de correlação: 
 > Balanço /
@@ -32,13 +32,13 @@ Com isso destacam-se 3 features mais relevantes dado seu nível de correlação:
 Dessa forma o foco da análise será volto para a composição dessas features, que podem ser avalidas de maneira independente de acordo com sua frequência: 
 
 ### Balanço
-![Histograma de Balanço](/Imagens/Hist%20Balance.png)
+![Histograma de Balanço](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Hist%20Balance.png)
 
 ### Credito
-![Histograma de Crédito](/Imagens/Hist%20Credit%20Limit.png)
+![Histograma de Crédito](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Hist%20Credit%20Limit.png)
 
 ### Compras
-![Histograma de Compras](/Imagens/Hist%20Purchase.png)
+![Histograma de Compras](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Hist%20Purchase.png)
 
 De uma maneira geral, os dados estão distribuidos com a maior frequencia próximas ao ponto 0 do eixo x o que pode nos auxiliar a entender qual a característica da maioria dos clientes. 
 
@@ -61,13 +61,13 @@ Assim, o método do cotovelo é uma técnica importante para auxiliar na escolha
 Com base na análise realizada usando o método do cotovelo para identificar o número ideal de clusters, podemos concluir que existem 4 grupos distintos de clientes com base em suas compras em nossa loja virtual.
 
 ### Balanço
-![Cluster Balanço](/Imagens/Clusters%20Balance.png)
+![Cluster Balanço](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Clusters%20Balance.png)
 
 ### Crédito
-![Cluster Crédito](/Imagens/Clusters%20Credit%20Limit.png)
+![Cluster Crédito](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Clusters%20Credit%20Limit.png)
 
 ### Compras
-![Cluster Compras](/Imagens/Clusters%20Purchase.png)
+![Cluster Compras](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Clusters%20Purchase.png)
 
 Ao analisar os clusters e as descrições de cada variável, identificamos diferenças entre as populações em algumas variáveis, o que nos permite criar 4 perfis distintos. É importante observar que há presença de outliers quando comparamos entre os clusters.
 
