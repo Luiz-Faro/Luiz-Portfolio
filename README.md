@@ -22,7 +22,7 @@ O projeto resultou em uma matriz de correlação, que apresentou correlações p
 
 Na etapa de EDA, foi possivel identificar a correlação das features do data set: 
 
-![Matriz de Correlação](https://github.com/Luiz-Faro/Luiz-Portfolio/blob/main/Imagens/Matriz%20Cor.png)
+![Matriz de Correlação](/Imagens/Matriz%20Cor.png)
 
 Com isso destacam-se 3 features mais relevantes dado seu nível de correlação: 
 > Balanço /
