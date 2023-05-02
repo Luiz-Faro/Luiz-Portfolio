@@ -1,7 +1,7 @@
 # Luiz-Portfolio
 Meu portfolio de Data Science
 
-Acesse meu [repositório de projetos em data science](https://github.com/Luiz-Faro/Projetos-Data-Science)
+Acesse meu [repositório de projetos em data science](https://github.com/Luiz-Faro/Projetos-Data-Science) para conhecer todos os projetos!
 
 # [Projeto 1: Clusterizando Clientes de Crédito com K-means](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Clustering_Kmeans-checkpoint.ipynb)
 
