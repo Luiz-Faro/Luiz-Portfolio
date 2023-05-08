@@ -89,17 +89,17 @@ Essa descrição é útil em áreas não técnicas, como atendimento ao cliente,
 ### Teste A|B
 Teste A|B é um teste  que divide o acesso a uma página online ou produto em duas versões diferentes, A(controle) e B(experimento), e depois mede-se a taxa de conversão que podem ser  vendas, clicks, preferência, compartilhamentos entre outras. As diferenças nas páginas/produtos podem ser em cores, botões, chamadas para ação ou serem totalmente diferentes mas com o mesmo objetivo. 
 
-Suas aplicações são comuns em e-commerce e anúncios como Google Ads, Redes Sociais, email marketing e landing pages. Também é usado na indústria para lançamento de versões produtos para avaliar cores, tamanho e forma. Mesmo com aparência simples não é fácil encontrar variáveis estatísticamente relevantes  para o experimento, isto é, é necessário grande quantidade de dados e tempo para rodar o teste, neste artigo melhor detalhado o uso dos Testes A-B: [O que é Teste A|B](https://resultadosdigitais.com.br/blog/o-que-e-teste-ab/)
+Suas aplicações são comuns em e-commerce e anúncios como Google Ads, Redes Sociais, email marketing e landing pages. Também é usado na indústria para lançamento de versões produtos para avaliar cores, tamanho e forma. Mesmo com aparência simples não é fácil encontrar variáveis estatísticamente relevantes  para o experimento, isto é, é necessário grande quantidade de dados e tempo para rodar o teste, neste artigo melhor detalhado o uso dos Testes A-B: [O que é Teste A-B](https://resultadosdigitais.com.br/blog/o-que-e-teste-ab/)
 
-Embora possa parecer simples deve ser cuidadosamente projetado para obter resultados conclusivos e evitar enviesamento como descrito nest artigo em inglês [7 A/B Testing Questions and Answers in Data Science Interviews](http://https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63), que faz um apanhado da teoria do Teste A-B como questões de entrevista de emprego.
+Embora possa parecer simples deve ser cuidadosamente projetado para obter resultados conclusivos e evitar enviesamento como descrito nest artigo em inglês [7 A-B Testing Questions and Answers in Data Science Interviews](http://https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63), que faz um apanhado da teoria do Teste A-B como questões de entrevista de emprego.
 
 
 - Para aprofundar no assunto super recomendo o podcast hipsters tech com o time da NetShoes e o material da página. Você pode acessar   [aqui.](https://hipsters.tech/testes-ab-hipsters-59/).
 
-> [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) Um estudo de caso do Airbnb que mostra as armadilhas do Teste A-B e como evitar.
-> [What is A|B Testing?](https://www.momentcrm.com/blog/what-is-ab-testing/)
-> [5 Common Threats to Your A-B Test’s Validity](https://instapage.com/blog/validating-ab-tests)
-> [A/B Testing Statistics: An Easy-to-Understand Guide](https://cxl.com/blog/ab-testing-statistics/)
+- [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) Um estudo de caso do Airbnb que mostra as armadilhas do Teste A-B e como evitar.
+- [What is A|B Testing?](https://www.momentcrm.com/blog/what-is-ab-testing/)
+- [5 Common Threats to Your A-B Test’s Validity](https://instapage.com/blog/validating-ab-tests)
+- [A-B Testing Statistics: An Easy-to-Understand Guide](https://cxl.com/blog/ab-testing-statistics/)
 
 
 ## Aprofundado análise do projeto (EDA)
