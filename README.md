@@ -97,7 +97,7 @@ Embora possa parecer simples deve ser cuidadosamente projetado para obter result
 - Para aprofundar no assunto super recomendo o podcast hipsters tech com o time da NetShoes e o material da página. Você pode acessar   [aqui.](https://hipsters.tech/testes-ab-hipsters-59/).
 
 - [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) Um estudo de caso do Airbnb que mostra as armadilhas do Teste A-B e como evitar.
-- [What is A|B Testing?](https://www.momentcrm.com/blog/what-is-ab-testing/)
+- [What is A-B Testing?](https://www.momentcrm.com/blog/what-is-ab-testing/)
 - [5 Common Threats to Your A-B Test’s Validity](https://instapage.com/blog/validating-ab-tests)
 - [A-B Testing Statistics: An Easy-to-Understand Guide](https://cxl.com/blog/ab-testing-statistics/)
 
