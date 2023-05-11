@@ -1,6 +1,6 @@
 Acesse meu [repositório de projetos em data science](https://github.com/Luiz-Faro/Projetos-Data-Science) para conhecer todos os projetos!
 
-Confiram também os projetos completos desse portfolio usando a linguagem  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>, clicando no título de cada projeto.
+Confiram também os projetos completos desse portfolio usando a linguagem <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>, clicando no título de cada projeto.
 
 # [Projeto 1: Clusterizando Clientes de Crédito com K-means](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Clustering_Kmeans-checkpoint.ipynb)
 
