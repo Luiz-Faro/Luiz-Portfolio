@@ -1,5 +1,7 @@
 Acesse meu [repositório de projetos em data science](https://github.com/Luiz-Faro/Projetos-Data-Science) para conhecer todos os projetos!
 
+Confiram também os projetos completos desse portfolio usando a linguagem  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>, clicando no título de cada projeto.
+
 # [Projeto 1: Clusterizando Clientes de Crédito com K-means](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Clustering_Kmeans-checkpoint.ipynb)
 
 Neste projeto de clusterização de clientes de cartão de crédito, utilizei o método não supervisionado K-Means para agrupá-los com o objetivo de facilitar o desenho de estratégias focadas nesses clientes. Para entender melhor o perfil de cada cliente, fiz a clusterização e identifiquei qual é o perfil médio de dos clientes de cada cluster.
